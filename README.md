@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wslz208
-- 👀 I’m interested in remote sensing, hydrology, and extremes.
-- 🌱 I’m currently learning about machine learning based hydrologic modeling. 
+- 👀 I’m interested in remote sensing, hydrology, and heavy rainfall. 
+- 🌱 I’m currently learning about machine learning, and object-based nowcasting algorithms.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...lizhe.tu@gmail.com
 
